@@ -1,2 +1,0 @@
-# pyltk
-NLTK toolkit python 
